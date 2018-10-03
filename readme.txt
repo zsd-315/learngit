@@ -6,3 +6,5 @@ Git is free software distributed under the GPL.
 中国人民大团结万岁。
 git add readme.txt
 $ git status
+1111111111111111111111111111111111
+2222222222222222222222222222222222
